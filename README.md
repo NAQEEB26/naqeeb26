@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Programming Languages.**
 
-- 👨‍💻 All of my projects are available at [Naqeeb's-Portfolio](Naqeeb's-Portfolio)
+- 👨‍💻 All of my projects are available at [Naqeeb's-Portfolio](Naqeeb's-Portfoli-26.web.app)
 
 - 💬 Ask me about **Html ,CSS ,JS and WordPress(CMS)**
 
