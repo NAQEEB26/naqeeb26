@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Html ,CSS ,JS and WordPress(CMS)**
 
-- 📫 How to reach me **<a> href="fiverr.com/naqeebulrehman" target="blank" </a>**
+- 📫 How to reach me **"fiverr.com/naqeebulrehman"**
 
 - ⚡ Fun fact **Self-Motivated**
 
