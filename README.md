@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at  [NAQEEB'S PORTFOLIO](https://naqeeb-s-portfolio-26.web.app/)
 
-- 💬 Ask me about **Html ,CSS ,JS and WordPress(CMS)**
+- 💬 Ask me about **Html ,CSS ,JS ,C++ and WordPress(CMS)**
 
 - 📫 How to reach me **"fiverr.com/naqeebulrehman"**
 
