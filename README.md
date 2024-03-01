@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Programming Languages.**
 
-- 👨‍💻 All of my projects are available at  [1: NAQEEB'S PORTFOLIO](https://naqeeb-s-portfolio-26.web.app/)[2: Naqeeb ul Rehman(https://naqeebulrehman.netlify.app/)]
+- 👨‍💻 All of my projects are available at  [ My PORTFOLIO WEBSITE](https://naqeebulrehman.netlify.app/)
 
 - 💬 Ask me about **Html ,CSS ,JS ,C++ and WordPress(CMS)**
 
