@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Programming Languages.**
 
-- 👨‍💻 All of my projects are available at  [NAQEEB'S PORTFOLIO](https://naqeeb-s-portfolio-26.web.app/)
+- 👨‍💻 All of my projects are available at  [1: NAQEEB'S PORTFOLIO](https://naqeeb-s-portfolio-26.web.app/)[2: Naqeeb ul Rehman(https://naqeebulrehman.netlify.app/)]
 
 - 💬 Ask me about **Html ,CSS ,JS ,C++ and WordPress(CMS)**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naqeeb-ul-rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naqeeb-ul-rehman" height="30" width="40" /></a>
-<a href="https://fb.com/sagy attar naqeeb attari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagy attar naqeeb attari" height="30" width="40" /></a>
+<a href="https://fb.com/naqeebulrehmanattari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagy attar naqeeb attari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
