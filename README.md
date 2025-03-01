@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Programming Languages.**
 
-- 👨‍💻 All of my projects are available at  [ My PORTFOLIO WEBSITE](https://naqeebulrehman.netlify.app/)
+- 👨‍💻 All of my projects are available at  [ My PORTFOLIO WEBSITE](https://naqeebulrehman.com)
 
-- 💬 Ask me about **Html ,CSS ,JS ,C++ and WordPress(CMS)**
+- 💬 Ask me about **Html ,CSS ,JS ,PHP and WordPress(CMS)**
 
 - 📫 How to reach me **"fiverr.com/naqeebulrehman"**
 
