@@ -34,7 +34,6 @@ My engineering interests include:
 
 I enjoy solving **real-world problems with clean architecture and efficient engineering solutions.**
 
----
 
 # ⚙️ Core Technical Skills
 
@@ -49,7 +48,6 @@ Creating responsive and interactive user interfaces.
 | Tailwind CSS | ███████████████ 80% |
 | Responsive UI Systems | █████████████████ 95% |
 
----
 
 ## Backend Development
 Building scalable and secure backend systems.
@@ -62,7 +60,6 @@ Building scalable and secure backend systems.
 | Database Architecture | █████████████████ 90% |
 | Python (Automation) | ████████████ 60% |
 
----
 
 ## WordPress Engineering Stack
 
@@ -78,7 +75,6 @@ Professional WordPress development focused on performance, scalability, and cust
 | Custom Plugin Development | ██████████████ 80% |
 | WordPress Debugging | ████████████████ 90% |
 
----
 
 ## DevOps & Infrastructure
 
@@ -93,7 +89,6 @@ Deploying and managing production-ready systems.
 | Docker / CI-CD | █████████████ 80% |
 | Cron Jobs & Automation | █████████████ 80% |
 
----
 
 # 🚀 Systems I Like Building
 
@@ -111,7 +106,6 @@ My focus is always on:
 
 **automation • scalability • clean architecture**
 
----
 
 # 🧩 Featured Engineering Projects
 
@@ -127,7 +121,6 @@ An AI powered web system that helps users track spending, analyze financial beha
 ### WordPress AI Chatbot Framework
 A chatbot infrastructure designed specifically for WordPress websites.
 
----
 
 # 🧰 Technologies & Tools
 
@@ -137,7 +130,6 @@ A chatbot infrastructure designed specifically for WordPress websites.
 
 </p>
 
----
 
 # 📊 GitHub Analytics
 
@@ -159,7 +151,6 @@ A chatbot infrastructure designed specifically for WordPress websites.
 
 </p>
 
----
 
 # 🌍 Connect With Me
 
@@ -172,7 +163,6 @@ https://naqeebulrehman.com
 💼 LinkedIn  
 https://www.linkedin.com/in/naqeebulrehman/
 
----
 
 # 🎯 Current Focus
 
@@ -181,6 +171,5 @@ https://www.linkedin.com/in/naqeebulrehman/
 • Advanced WordPress engineering  
 • Automation and workflow tools  
 
----
 
 ⭐ *Great systems are built through clear thinking, strong architecture, and continuous improvement.*
