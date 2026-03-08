@@ -107,21 +107,6 @@ My focus is always on:
 **automation • scalability • clean architecture**
 
 
-# 🧩 Featured Engineering Projects
-
-### AI Website Audit System
-A system that automatically crawls and audits websites to detect performance issues, SEO problems, and technical errors.
-
-### Website Restoration Engine
-A tool designed to reconstruct websites from archived sources while preserving structure and assets.
-
-### AI Personal Finance Assistant
-An AI powered web system that helps users track spending, analyze financial behavior, and manage budgets.
-
-### WordPress AI Chatbot Framework
-A chatbot infrastructure designed specifically for WordPress websites.
-
-
 # 🧰 Technologies & Tools
 
 <p align="center">
@@ -150,18 +135,6 @@ A chatbot infrastructure designed specifically for WordPress websites.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqeeb26&layout=compact&theme=tokyonight"/>
 
 </p>
-
-
-# 🌍 Connect With Me
-
-💼 Fiverr  
-https://fiverr.com/naqeebulrehman  
-
-🌐 Portfolio  
-https://naqeebulrehman.com  
-
-💼 LinkedIn  
-https://www.linkedin.com/in/naqeebulrehman/
 
 
 # 🎯 Current Focus
