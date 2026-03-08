@@ -1,31 +1,184 @@
-<h1 align="center">Hi 👋, I'm NAQEEB UL REHMAN</h1>
-<h3 align="center">A passionate web developer from Pakistan <br>Proud to be a student of SMIT</h3>
+<!-- HEADER -->
+<h1 align="center">Hi 👋 I'm Naqeeb ul Rehman</h1>
 
-<img align="right"  width="400"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding iamge"/>
+<h3 align="center">
+WordPress Systems Engineer • Full-Stack Developer • Automation Builder
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naqeeb26&label=Profile%20views&color=0e75b6&style=flat" alt="naqeeb26" /> </p>
-
-- 🌱 I’m currently learning **Programming Languages.**
-
-- 👨‍💻 All of my projects are available at  [ My PORTFOLIO WEBSITE](https://naqeebulrehman.com)
-
-- 💬 Ask me about **Html ,CSS ,JS ,PHP and WordPress(CMS)**
-
-- 📫 How to reach me **"fiverr.com/naqeebulrehman"**
-
-- ⚡ Fun fact **Self-Motivated**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naqeeb-ul-rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naqeeb-ul-rehman" height="30" width="40" /></a>
-<a href="https://fb.com/naqeebulrehmanattari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagy attar naqeeb attari" height="30" width="40" /></a>
+<p align="center">
+Building scalable web systems, AI tools, and automation platforms.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naqeeb26&show_icons=true&locale=en&layout=compact" alt="naqeeb26" /></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=WordPress+Systems+Engineer;Full+Stack+Developer;AI+Automation+Builder;Backend+Focused+Problem+Solver;Building+Real+World+Web+Systems"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naqeeb26&show_icons=true&locale=en" alt="naqeeb26" /></p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naqeeb26&" alt="naqeeb26" /></p>
+---
+
+# 🧠 Engineering Philosophy
+
+I focus on **building practical and scalable systems**, not just websites.
+
+My engineering interests include:
+
+• WordPress Systems Engineering  
+• Backend Architecture  
+• Web Automation Systems  
+• AI Integration & Tools  
+• SaaS Product Development  
+• Infrastructure & Performance Optimization  
+
+I enjoy solving **real-world problems with clean architecture and efficient engineering solutions.**
+
+---
+
+# ⚙️ Core Technical Skills
+
+## Frontend Engineering
+Creating responsive and interactive user interfaces.
+
+| Technology | Level |
+|------------|------|
+| HTML / CSS | ███████████████████ 99% |
+| JavaScript / jQuery | █████████████████ 90% |
+| Bootstrap | █████████████████ 90% |
+| Tailwind CSS | ███████████████ 80% |
+| Responsive UI Systems | █████████████████ 95% |
+
+---
+
+## Backend Development
+Building scalable and secure backend systems.
+
+| Technology | Level |
+|------------|------|
+| PHP / MySQL | ███████████████████ 99% |
+| REST APIs | █████████████████ 90% |
+| Node.js | ███████████████ 80% |
+| Database Architecture | █████████████████ 90% |
+| Python (Automation) | ████████████ 60% |
+
+---
+
+## WordPress Engineering Stack
+
+Professional WordPress development focused on performance, scalability, and custom solutions.
+
+| Skill | Level |
+|------|------|
+| WordPress Development | ██████████████████ 98% |
+| WordPress Website Design | ██████████████████ 98% |
+| Figma → WordPress | █████████████████ 95% |
+| WordPress Speed Optimization | █████████████████ 95% |
+| Custom Theme Development | ████████████████ 90% |
+| Custom Plugin Development | ██████████████ 80% |
+| WordPress Debugging | ████████████████ 90% |
+
+---
+
+## DevOps & Infrastructure
+
+Deploying and managing production-ready systems.
+
+| Skill | Level |
+|------|------|
+| Linux Server Setup | █████████████████ 95% |
+| Website Migration | ██████████████████ 98% |
+| Mail Server Setup | ████████████████ 90% |
+| Hosting Control Panels | ████████████████ 90% |
+| Docker / CI-CD | █████████████ 80% |
+| Cron Jobs & Automation | █████████████ 80% |
+
+---
+
+# 🚀 Systems I Like Building
+
+I enjoy creating **automation tools and scalable web systems**.
+
+Examples of systems I build:
+
+⚙️ Website automation tools  
+⚙️ AI powered WordPress chatbots  
+⚙️ Website restoration systems  
+⚙️ AI website audit platforms  
+⚙️ SaaS style web applications  
+
+My focus is always on:
+
+**automation • scalability • clean architecture**
+
+---
+
+# 🧩 Featured Engineering Projects
+
+### AI Website Audit System
+A system that automatically crawls and audits websites to detect performance issues, SEO problems, and technical errors.
+
+### Website Restoration Engine
+A tool designed to reconstruct websites from archived sources while preserving structure and assets.
+
+### AI Personal Finance Assistant
+An AI powered web system that helps users track spending, analyze financial behavior, and manage budgets.
+
+### WordPress AI Chatbot Framework
+A chatbot infrastructure designed specifically for WordPress websites.
+
+---
+
+# 🧰 Technologies & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,firebase,php,wordpress,python,docker,git,github"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=naqeeb26&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naqeeb26&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqeeb26&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+💼 Fiverr  
+https://fiverr.com/naqeebulrehman  
+
+🌐 Portfolio  
+https://naqeebulrehman.com  
+
+💼 LinkedIn  
+https://www.linkedin.com/in/naqeebulrehman/
+
+---
+
+# 🎯 Current Focus
+
+• Building AI powered web systems  
+• Developing SaaS platforms  
+• Advanced WordPress engineering  
+• Automation and workflow tools  
+
+---
+
+⭐ *Great systems are built through clear thinking, strong architecture, and continuous improvement.*
