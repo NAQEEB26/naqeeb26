@@ -18,7 +18,6 @@ Building scalable web systems, AI tools, and automation platforms.
 
 </p>
 
----
 
 # 🧠 Engineering Philosophy
 
