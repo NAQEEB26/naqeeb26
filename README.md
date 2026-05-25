@@ -1,148 +1,152 @@
-<!-- HEADER -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=naqeeb26&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-<h1 align="center">Hi 👋 I'm Naqeeb ul Rehman</h1>
+<div align="center">
 
-<h3 align="center">
-WordPress Systems Engineer • Full-Stack Developer • Automation Builder
-</h3>
+<img src="https://komarev.com/ghpvc/?username=naqeeb26&label=profile+views&color=00D98A&style=flat" />
 
-<p align="center">
-Building scalable web systems, AI tools, and automation platforms.
-</p>
+</div>
 
-<p align="center">
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=WordPress+Systems+Engineer;Full+Stack+Developer;AI+Automation+Builder;Backend+Focused+Problem+Solver;Building+Real+World+Web+Systems"/>
+```typescript
+const naqeeb = {
+  role:     "Full-Stack WordPress Engineer · Team Lead @ Glowlogix",
+  location: "Gujrat, Pakistan — Open to Remote",
+  focus:    ["WordPress Systems", "Backend Architecture", "Process Engineering", "AI Workflows"],
+  mindset:  "I find broken systems before someone asks me to fix them.",
+};
+```
 
-</p>
+---
 
+## What I actually do
 
-# 🧠 Engineering Philosophy
+I build and architect WordPress-based production systems — custom PHP, WooCommerce ecosystems, REST APIs, and AI-integrated workflows. At Glowlogix I went from intern to Team Lead in under a year, not by doing what I was assigned, but by identifying what wasn't assigned yet.
 
-I focus on **building practical and scalable systems**, not just websites.
+Three things that separate how I work:
 
-My engineering interests include:
+- **I diagnose before I build.** I observe the system, find where it breaks, map the flow, write the SOP — then write the code.
+- **I own the problem end-to-end.** From identifying the issue → formal proposal → buy-in → execution → adoption.
+- **I engineer for the next developer.** Clean, documented, handoff-ready. Complexity is not the goal.
 
-• WordPress Systems Engineering  
-• Backend Architecture  
-• Web Automation Systems  
-• AI Integration & Tools  
-• SaaS Product Development  
-• Infrastructure & Performance Optimization  
+---
 
-I enjoy solving **real-world problems with clean architecture and efficient engineering solutions.**
+## Stack I work in daily
 
+**Core**
 
-# ⚙️ Core Technical Skills
+![PHP](https://img.shields.io/badge/PHP-1A1A2E?style=flat&logo=php&logoColor=8892BF)
+![MySQL](https://img.shields.io/badge/MySQL-1A1A2E?style=flat&logo=mysql&logoColor=4479A1)
+![WordPress](https://img.shields.io/badge/WordPress-1A1A2E?style=flat&logo=wordpress&logoColor=21759B)
+![REST API](https://img.shields.io/badge/REST_API-1A1A2E?style=flat&logo=fastapi&logoColor=00D98A)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-1A1A2E?style=flat&logo=woocommerce&logoColor=96588A)
 
-## Frontend Engineering
-Creating responsive and interactive user interfaces.
+**Frontend**
 
-| Technology | Level |
-|------------|------|
-| HTML / CSS | ███████████████████ 99% |
-| JavaScript / jQuery | █████████████████ 90% |
-| Bootstrap | █████████████████ 90% |
-| Tailwind CSS | ███████████████ 80% |
-| Responsive UI Systems | █████████████████ 95% |
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1A2E?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-1A1A2E?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1A1A2E?style=flat&logo=css3&logoColor=1572B6)
+![jQuery](https://img.shields.io/badge/jQuery-1A1A2E?style=flat&logo=jquery&logoColor=0769AD)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1A1A2E?style=flat&logo=bootstrap&logoColor=7952B3)
 
+**Systems & Architecture**
 
-## Backend Development
-Building scalable and secure backend systems.
+![Git](https://img.shields.io/badge/Git-1A1A2E?style=flat&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-1A1A2E?style=flat&logo=linux&logoColor=FCC624)
+![cPanel](https://img.shields.io/badge/cPanel-1A1A2E?style=flat&logo=cpanel&logoColor=FF6C2C)
+![Docker](https://img.shields.io/badge/Docker-1A1A2E?style=flat&logo=docker&logoColor=2496ED)
+![Process Maker](https://img.shields.io/badge/Process_Maker_(BPM)-1A1A2E?style=flat&logoColor=00D98A)
 
-| Technology | Level |
-|------------|------|
-| PHP / MySQL | ███████████████████ 99% |
-| REST APIs | █████████████████ 90% |
-| Node.js | ███████████████ 80% |
-| Database Architecture | █████████████████ 90% |
-| Python (Automation) | ████████████ 60% |
+**AI & Automation**
 
+![Claude API](https://img.shields.io/badge/Claude_API-1A1A2E?style=flat&logoColor=00D98A)
+![Python](https://img.shields.io/badge/Python-1A1A2E?style=flat&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-1A1A2E?style=flat&logo=nodedotjs&logoColor=339933)
 
-## WordPress Engineering Stack
+---
 
-Professional WordPress development focused on performance, scalability, and custom solutions.
+## Selected work
 
-| Skill | Level |
-|------|------|
-| WordPress Development | ██████████████████ 98% |
-| WordPress Website Design | ██████████████████ 98% |
-| Figma → WordPress | █████████████████ 95% |
-| WordPress Speed Optimization | █████████████████ 95% |
-| Custom Theme Development | ████████████████ 90% |
-| Custom Plugin Development | ██████████████ 80% |
-| WordPress Debugging | ████████████████ 90% |
+**Intern Management Dashboard** — Internal · Glowlogix · Shipped & Adopted
 
+> Nobody asked for this. I observed that intern management across 3–4 team leads was fully manual, undocumented, and inconsistent. Mapped the workflow, identified pain points, wrote SOPs, built a formal proposal (PPT + documentation), presented to management, got approval, built the dashboard. The team uses it.
 
-## DevOps & Infrastructure
+**GleamHR — Attendance Module** — SaaS Product · Glowlogix · In Development
 
-Deploying and managing production-ready systems.
+> Product-level work on an internal HR SaaS. Conducted ground-level market research and competitive analysis before architecture. Built the attendance module with edge-case handling (late clock-ins, corrections, multi-location), accurate tracking, and clean data models built for payroll-grade downstream use.
 
-| Skill | Level |
-|------|------|
-| Linux Server Setup | █████████████████ 95% |
-| Website Migration | ██████████████████ 98% |
-| Mail Server Setup | ████████████████ 90% |
-| Hosting Control Panels | ████████████████ 90% |
-| Docker / CI-CD | █████████████ 80% |
-| Cron Jobs & Automation | █████████████ 80% |
+**Client Onboarding System** — Process Engineering · Glowlogix
 
+> 7 undefined manual steps → one standardized, documented flow. Used Process Maker to map the ideal process, wrote SOPs for every decision point, then built the automation. Any team member can run it without a handholding session.
 
-# 🚀 Systems I Like Building
+**Mintbyte** — Fintech Web Platform · [mintbyte.com](https://mintbyte.com) · Live
 
-I enjoy creating **automation tools and scalable web systems**.
+> Pixel-perfect Figma → WordPress for a fintech brand with zero tolerance for visual drift. Extended Elementor Pro with custom PHP + JS where the tool couldn't reach the spec. Performance treated as a hard constraint, not an afterthought.
 
-Examples of systems I build:
+**Ummahunite** — Community & Events Platform · [ummahunite.com](https://ummahunite.com) · Live
 
-⚙️ Website automation tools  
-⚙️ AI powered WordPress chatbots  
-⚙️ Website restoration systems  
-⚙️ AI website audit platforms  
-⚙️ SaaS style web applications  
+> Custom PHP event discovery with AJAX-powered filtering (category, location, date). Separate role-based registration flows for hosts and attendees. Custom post types designed for long-term maintainability — new features added without structural rework.
 
-My focus is always on:
+---
 
-**automation • scalability • clean architecture**
+## Professional track
 
+```
+2025 → Present   Team Lead, Full-Stack WordPress & WooCommerce — Glowlogix
+                 Leading 3–4 intern batches · GleamHR product engineering
 
-# 🧰 Technologies & Tools
+2024 → 2025      WordPress & WooCommerce Developer (Permanent) — Glowlogix
+                 Promoted from intern · Shipped 2 self-initiated internal systems
+                 Fiverr Level 2 · 50+ international projects · 80%+ client retention
 
-<p align="center">
+Early 2024       Industry entry — internships + hackathons
+                 Glowlogix intern · Internee.pk remote · Google DSC @ ITU · Arbisoft
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,firebase,php,wordpress,python,docker,git,github"/>
+Late 2022        Self-taught foundation — roadmaps, documentation, building real things
+                 Managed alongside BS Computer Science @ University of Gujrat (in progress)
+```
 
-</p>
+---
 
+## Freelance record
 
-# 📊 GitHub Analytics
+> 50+ international projects delivered · Fiverr Level 2 Seller · 4.9★ avg rating
+>
+> **80%+ client retention** — the number that matters. Most clients came back. That's communication, reliability, and quality combined — not just technical output.
 
-<p align="center">
+All international. All managed alongside full-time responsibilities at Glowlogix with full transparency and no compromise on either side.
 
-<img src="https://github-readme-stats.vercel.app/api?username=naqeeb26&show_icons=true&theme=tokyonight"/>
+---
 
-</p>
+## GitHub stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naqeeb26&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=naqeeb26&show_icons=true&theme=github_dark&hide_border=true&bg_color=07090D&title_color=00D98A&icon_color=00D98A&text_color=5E7A93&ring_color=00D98A" />
 
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqeeb26&layout=compact&theme=github_dark&hide_border=true&bg_color=07090D&title_color=00D98A&text_color=5E7A93" />
 
-<p align="center">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqeeb26&layout=compact&theme=tokyonight"/>
+<div align="center">
 
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naqeeb26&theme=github-dark-blue&hide_border=true&background=07090D&ring=00D98A&fire=00D98A&currStreakLabel=00D98A&sideLabels=5E7A93&dates=2E4258" />
 
+</div>
 
-# 🎯 Current Focus
+---
 
-• Building AI powered web systems  
-• Developing SaaS platforms  
-• Advanced WordPress engineering  
-• Automation and workflow tools  
+## What I'm building toward
 
+- Advanced WordPress + AI-integrated production systems
+- SaaS-grade internal tooling (continuing GleamHR work)
+- Deeper backend architecture and system design patterns
+- Remote engineering roles with product-focused teams that value ownership
 
-⭐ *Great systems are built through clear thinking, strong architecture, and continuous improvement.*
+---
+
+<div align="center">
+
+**Open to remote roles · US · UK · International**
+
+[Portfolio](https://hello.naqeebulrehman.com) · [LinkedIn](https://linkedin.com/in/naqeebulrehman) · [Email](mailto:info@naqeebulrehman.com)
+
+</div>
